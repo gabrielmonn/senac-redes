@@ -38,7 +38,7 @@ PC2[Notebook 2<br>192.168.0.102]
 
 PC3[Notebook 3<br>192.168.0.103]
 
-Printer[Impressora de Rede]
+Printer[Impressora de Rede<br>192.168.0.101]
 
 WAN--> |Porta WAN| Router
 
